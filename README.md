@@ -6,9 +6,7 @@ AEM Full-Stack Developer Experienced AEM Full-Stack Developer with 1 year of
 hands-on expertise in developing and managing Adobe Experience Manager
 applications. Skilled in integrating AEM with front-end technologies, creating
 custom components, and ensuring optimal performance. Proficient in both back-end
-Java services and front-end development. I Take a look at my work or get in
-touch!
-
+Java services and front-end development. Please take a look at my work or get in touch!
 * 🌍  I'm based in Bangalore. <br>
 
 * ✉️  You can contact me at[akankshyapandasimi1999@gmail.com](mailto:akankshyapandasimi1999@gmail.com)<br>
