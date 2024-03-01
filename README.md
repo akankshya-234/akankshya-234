@@ -159,7 +159,7 @@ Java services and front-end development. Please take a look at my work or get in
     <img
       align="left"
       width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=akankshya-234&repo=amazon-clone&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=akankshya-234&repo=netflix_clone&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en"
     />
   </a>
 </div>
