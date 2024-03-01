@@ -155,7 +155,7 @@ Java services and front-end development. Please take a look at my work or get in
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/akankshya-234/amazon-clone" align="left">
+  <a href="https://github.com/akankshya-234/netflix_clone" align="left">
     <img
       align="left"
       width="45%"
