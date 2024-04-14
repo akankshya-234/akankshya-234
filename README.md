@@ -9,7 +9,7 @@ custom components, and ensuring optimal performance. Proficient in both back-end
 Java services and front-end development. Please take a look at my work or get in touch!
 * 🌍  I'm based in Bangalore. <br>
 
-* ✉️  You can contact me at[akankshyapandasimi1999@gmail.com](mailto:akankshyapandasimi1999@gmail.com)<br>
+* ✉️  You can contact me at [akankshyapandasimi1999@gmail.com](mailto:akankshyapandasimi1999@gmail.com)<br>
 
 * 🧠  I'm learning AEM, Frontend Development.
 
